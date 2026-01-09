@@ -4,3 +4,4 @@ transformers
 torch
 pytest
 flake8
+httpx
